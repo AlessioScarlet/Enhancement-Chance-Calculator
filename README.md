@@ -1,5 +1,5 @@
 # Enhancement Chance Calculator
-**Enhancement (or drop) Chance Calculator made in python.**
+**Enhancement (or drop) Chance Calculator made in python for Black Desert Online, Warframe, Minecraft or any other videogame.**
 
 ![](https://i.imgur.com/Ln326pk.png)
 
